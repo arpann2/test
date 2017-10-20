@@ -1,6 +1,7 @@
- # Contents (#contents)
- 1. [Specification] (#specification) 
- 2. [Dependencies Title](#dependencies-title) 
+ # Contents 
+ 
+ 1. [Specification] (#anch1) 
+ 2. [Dependencies Title](#anch1) 
 
 ## Specification
     Example text blah. Example text blah. Example text blah. Example text blah. 
